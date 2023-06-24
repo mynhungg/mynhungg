@@ -39,7 +39,7 @@
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
 
-<h3>🥅🥅 Other🥅🥅</h3>
+<h3>🥅🥅 Other 🥅🥅</h3>
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
@@ -48,6 +48,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
 <h2>⭐⭐ About Some Statistics ⭐⭐</h2>
