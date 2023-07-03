@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **<mynhungttm.work@gmail.com>**
 
-- 📄 Know about my experiences [https://github.com/mynhungg/myCV](https://github.com/mynhungg/myCV) 
+- 📄 Know about my experiences [https://mynhungg.github.io/myCV/](https://mynhungg.github.io/myCV/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
