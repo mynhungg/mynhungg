@@ -9,7 +9,7 @@
 
 - 💬 My experiences with **Analyze business requirements using UML, Use Cases and Functional Specifications** is 1 years.
 
-- 📫 How to reach me **<nhungttm.work@gmail.com>**
+- 📫 How to reach me **<mynhungttm.work@gmail.com>**
 
 - 📄 Know about my experiences [https://github.com/mynhungg/myCV](https://github.com/mynhungg/myCV) 
 
