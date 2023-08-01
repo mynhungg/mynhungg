@@ -71,4 +71,4 @@
 
 ![Snake animation](https://github.com/LeHaGiaBao/LeHaGiaBao/blob/output/github-contribution-grid-snake.svg)
 
-[![](https://visitcount.itsvg.in/api?id=TNQT14&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mynhungg&icon=0&color=0)](https://visitcount.itsvg.in)
