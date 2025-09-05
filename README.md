@@ -1,7 +1,7 @@
 [![MasterHead](https://media1.giphy.com/channel_assets/charlos_/EwtlNE0w0jqB.gif)](https://github.com/mynhungg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=500&color=7C06CF&vCenter=true&width=900&lines=%E3%80%8C+I'm+a+Data+Analyst+from+VietNam)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=AE32E6&vCenter=true&width=900&lines=%E3%80%8C+I'm+deeply+passionate+about+working+in+the+field+of+Analysing+Data+%E3%80%8D)](https://git.io/typing-svg)
+(https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=500&color=7C06CF&vCenter=true&width=900&lines=%E3%80%8C+I'm+a+Data+Analyst+from+VietNam)](https://git.io/typing-svg)
+(https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=AE32E6&vCenter=true&width=900&lines=%E3%80%8C+I'm+deeply+passionate+about+working+in+the+field+of+Analysing+Data+%E3%80%8D)](https://git.io/typing-svg)
 
 <img align="right" width="300" src="https://github.com/mynhungg/mynhungg/assets/75101819/b12f403b-1b4c-4030-a602-ad9ce0585ec2" alt="mynhugg" /> 
 
